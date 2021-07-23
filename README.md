@@ -1,4 +1,4 @@
-Chess 2019 Lichess.org DataSet exploration
+# Chess 2019 Lichess.org DataSet exploration
 
 This analysis explores a dataset of 20000 Chess Matches from user of the top 200 teams of Liches.org between players between 784 and 2723 rating system in the GLicko chess rating system.
 
@@ -9,7 +9,7 @@ Source: https://www.kaggle.com/datasnaek/chess
 
 
 
-Gestioo-R Script
+# Gestioo Data Analysis
 Hi, My name is Carlos Arauz and I i am a intern at Worldtime Watch Service Center.
 4 month ago Worldtime Watch Service Center installed Gestioo a software where among many things facilitates data collection where it automatically updates a Excel file with all current and past orders.
 I have created a R script, so that Worldtime Watch Service Center who is the exclusive workshop for Omega, Tissot, Buloga, Longiness, Swatch and other brands in Panama does not have to manually analyze data recieved from Gestioo software in Excel every week for the weekly report.
