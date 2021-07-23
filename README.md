@@ -6,3 +6,16 @@ For this analysis, I am particularly interested in finding out inisghts about ma
 
 
 Source: https://www.kaggle.com/datasnaek/chess
+
+
+
+Gestioo-R Script
+Hi, My name is Carlos Arauz and I i am a intern at Worldtime Watch Service Center.
+4 month ago Worldtime Watch Service Center installed Gestioo a software where among many things facilitates data collection where it automatically updates a Excel file with all current and past orders.
+I have created a R script, so that Worldtime Watch Service Center who is the exclusive workshop for Omega, Tissot, Buloga, Longiness, Swatch and other brands in Panama does not have to manually analyze data recieved from Gestioo software in Excel every week for the weekly report.
+
+Source: https://taller.gestioo.net/principal
+
+
+
+
