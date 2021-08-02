@@ -1,3 +1,21 @@
+
+# Global Food Prices from 1992 to 2018 Analysis
+
+This Analysis explores mainly a dataset from global food prices since 1992. In this Analysis I would want to find out what makes global food prices go up in price and understand the behaviour of the food industry.
+
+
+
+
+
+
+
+ Source: https://data.humdata.org/dataset/wfp-food-prices
+
+
+
+
+
+
 # Chess 2019 Lichess.org DataSet exploration
 
 This analysis explores a dataset of 20000 Chess Matches from user of the top 200 teams of Liches.org between players between 784 and 2723 rating system in the Glicko chess rating system.
@@ -16,12 +34,6 @@ I have created a R script, so that Worldtime Watch Service Center who is the exc
 
 Source: https://taller.gestioo.net/principal
 
-# Avocado Prices
 
-
-
-
-
-Source: https://www.kaggle.com/neuromusic/avocado-prices
 
 
